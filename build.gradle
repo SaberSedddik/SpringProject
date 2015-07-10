@@ -1,0 +1,12 @@
+apply plugin : 'java'
+apply plugin : 'idea'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile "org.springframework:spring-context:4.1.4.RELEASE"
+
+    testCompile "junit:junit-dep:4.11"
+}
