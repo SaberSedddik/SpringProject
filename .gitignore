@@ -1,5 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gradle
+.DS_STORE
 *.ipr
 *.iml
 *.iws
+/build/
